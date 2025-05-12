@@ -1,7 +1,7 @@
 
 # Supporting Files
 
-This is about formal models and code accompanying a paper submission:
+This is about formal models and code re the AKMA protocol's PCS proofs and implementation.
 
 # ProVerif
 
